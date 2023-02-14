@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Dony",
+    "birthdate": "2013-07-23",
+    "gender": "Male",
+    "id": "001",
+    "address": {
+      "city": "Brno",
+      "streetname": "Černovická"
+    },
+    "breed": "Labrador Retriever",
+    "favourite": 1
+  },
+  {
+    "name": "Radon",
+    "birthdate": "2015-04-01",
+    "gender": "Male",
+    "id": "002",
+    "address": {
+      "city": "Pardubice",
+      "streetname": "5. května"
+    },
+    "breed": "Golden Retriever",
+    "favourite": 1
+  },
+  {
+    "name": "Malidon",
+    "birthdate": "2017-02-14",
+    "gender": "Female",
+    "id": "003",
+    "address": {
+      "city": "Ostrava",
+      "streetname": "28. října"
+    },
+    "breed": "Bulldog",
+    "favourite": 0
+  },
+  {
+    "name": "Doni",
+    "birthdate": "2019-06-06",
+    "gender": "Female",
+    "id": "004",
+    "address": {
+      "city": "Praha",
+      "streetname": "Náměstí Republiky"
+    },
+    "breed": "Poodle",
+    "favourite": 0
+  },
+  {
+    "name": "Rado",
+    "birthdate": "2011-12-10",
+    "gender": "Male",
+    "id": "005",
+    "address": {
+      "city": "Olomouc",
+      "streetname": "Soudní"
+    },
+    "breed": "Beagle",
+    "favourite": 0
+  },
+  {
+    "name": "Mali",
+    "birthdate": "2010-01-20",
+    "gender": "Female",
+    "id": "006",
+    "address": {
+      "city": "Brno",
+      "streetname": "Tyršova"
+    },
+    "breed": "German Shepherd",
+    "favourite": 0
+  },
+  {
+    "name": "Buddy",
+    "birthdate": "2012-05-30",
+    "gender": "Male",
+    "id": "007",
+    "address": {
+      "city": "Pardubice",
+      "streetname": "Husova"
+    },
+    "breed": "Chihuahua",
+    "favourite": 0
+  },
+  {
+    "name": "Radi",
+    "birthdate": "2014-03-15",
+    "gender": "Female",
+    "id": "008",
+    "address": {
+      "city": "Ostrava",
+      "streetname": "Smetanova"
+    },
+    "breed": "Siberian Husky",
+    "favourite": 0
+  },
+  {
+    "name": "Malo",
+    "birthdate": "2016-07-07",
+    "gender": "Male",
+    "id": "009",
+    "address": {
+      "city": "Olomouc",
+      "streetname": "U Umělecké školy"
+    },
+    "breed": "Dachshund",
+    "favourite": 0
+  },
+  {
+    "name": "Rona",
+    "birthdate": "2018-09-10",
+    "gender": "Female",
+    "id": "010",
+    "address": {
+      "city": "Praha",
+      "streetname": "Na Příkopě"
+    },
+    "breed": "Yorkshire Terrier",
+    "favourite": 0
+  },
+  {
+    "name": "Rada",
+    "birthdate": "2020-02-02",
+    "gender": "Male",
+    "id": "011",
+    "address": {
+      "city": "Brno",
+      "streetname": "Výstavní"
+    },
+    "breed": "Shih Tzu",
+    "favourite": 0
+  },
+  {
+    "name": "Malina",
+    "birthdate": "2022-01-01",
+    "gender": "Female",
+    "id": "012",
+    "address": {
+      "city": "Pardubice",
+      "streetname": "V korunách"
+    },
+    "breed": "Boxer",
+    "favourite": 1
+  }
+]
