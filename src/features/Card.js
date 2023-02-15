@@ -1,4 +1,4 @@
-import dogImage from './assets/siby.jpg';
+import dogImage from '../assets/siby.jpg';
 import FavoriteBorderIcon from '@mui/icons-material/FavoriteBorder';
 import FavoriteIcon from '@mui/icons-material/Favorite';
 import MaleIcon from '@mui/icons-material/Male';

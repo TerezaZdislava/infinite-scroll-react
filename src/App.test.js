@@ -4,7 +4,9 @@ import App from './App';
 
 test('renders page', () => {
   render(<App />);
-  expect(screen.getByRole('heading')).toHaveTextContent(/Pupíci/);
+  expect(screen.getByRole('heading', { name: 'Pupíci' })).toHaveTextContent(
+    /Pupíci/,
+  );
   expect(screen.getByRole('textbox')).toBeEnabled();
   expect(screen.getByRole('textbox')).toHaveAccessibleName('Hledat');
 });
